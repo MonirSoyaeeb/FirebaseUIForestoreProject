@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "124825680924",
+    "project_id": "fir-uiforestoreproject",
+    "storage_bucket": "fir-uiforestoreproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124825680924:android:2b82c6cf78bf04ff8d73d9",
+        "android_client_info": {
+          "package_name": "com.monir.firebaseuiforestoreproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124825680924-tllr5c1bu7115nbra4isb49ush8m3avv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCegeQX0Rc-M3hB4sTSrYHOFlEXZhbRUrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124825680924-tllr5c1bu7115nbra4isb49ush8m3avv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
